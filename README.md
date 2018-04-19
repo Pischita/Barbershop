@@ -1,1 +1,1 @@
-# Barbershop
+Адаптивная версия Barbershop
